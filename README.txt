@@ -12,7 +12,7 @@ antes, e depois da classificação.
 Este projeto foi realizado para a disciplina de TÓPICOS EM APRENDIZAGEM DE MÁQUINA
 ministrada pelo professor Alexandre Szabo como atividade avaliativa.
 
-Aplicação desenvolvido por Adriano Yuji Sato de Vasconcelos e Felipe Issamu Kuratomi.
+Aplicação desenvolvido por Adriano Yuji Sato de Vasconcelos.
 
 Contato: adrianoyuji@gmail.com
 
