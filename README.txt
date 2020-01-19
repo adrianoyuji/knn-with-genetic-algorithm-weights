@@ -15,5 +15,5 @@ ministrada pelo professor Alexandre Szabo como atividade avaliativa.
 Aplicação desenvolvido por Adriano Yuji Sato de Vasconcelos e Felipe Issamu Kuratomi.
 
 Contato: adrianoyuji@gmail.com
-	 issamus9@hotmail.com
+
 	
